@@ -4,7 +4,7 @@
 
 ![Dashboard Preview](assets/dashboard_preview.png)
 
-[Dashboard](dashboard/README.md) · [Business Report](report/olist_ai_marketplace_business_analysis.pdf) · [Methodology](docs/methodology.md)
+[Live Dashboard](https://wangdandanlh-source.github.io/olist-ai-marketplace-analytics/) · [Dashboard Source](dashboard/README.md) · [Business Report](report/olist_ai_marketplace_business_analysis.pdf) · [Methodology](docs/methodology.md)
 
 ## Project overview / Business questions
 
@@ -29,7 +29,7 @@ Olist Brazilian E-Commerce Public Dataset 与 Marketing Funnel by Olist；[来�
 
 ## Dashboard / Report
 
-[本地运行 Dashboard](dashboard/README.md)，包含平台、商家、客户、履约、AI VOC 五页；[10 页经营报告](report/olist_ai_marketplace_business_analysis.pdf)使用已验收聚合数据重新绘制静态图表。
+[Live Dashboard](https://wangdandanlh-source.github.io/olist-ai-marketplace-analytics/) 已通过 GitHub Pages 部署，包含平台、商家、客户、履约、AI VOC 五页；[本地运行与源码](dashboard/README.md)；[10 页经营报告](report/olist_ai_marketplace_business_analysis.pdf)使用已验收聚合数据重新绘制静态图表。
 
 ## Business recommendations / Experiment design
 
