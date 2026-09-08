@@ -1,0 +1,10 @@
+[
+  {
+    "dataset": "brazilian-ecommerce",
+    "source": "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce"
+  },
+  {
+    "dataset": "marketing-funnel-olist",
+    "source": "https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist"
+  }
+]

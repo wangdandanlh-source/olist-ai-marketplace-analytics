@@ -1,0 +1,17 @@
+{
+  "rows": 40748,
+  "primary_n": 14375,
+  "positive_n": 26373,
+  "mixed_primary_n": 9013,
+  "mixed_primary_rate": 0.6269913043478261,
+  "mixed_all_rate": 0.22118877000098164,
+  "qa": {
+    "PASS": 25,
+    "WARN": 8
+  },
+  "decision": "CONDITIONAL GO",
+  "source_sha256": {
+    "session1.sqlite": "c774664f88e964d41603f78422a5f9039690a5a861a20b601222397a6c6e93d9",
+    "session2.sqlite": "7461fe19feec82a79ad4ee95aae3b28b2820f5e867e448c9d4ddc9b8061ba92e"
+  }
+}

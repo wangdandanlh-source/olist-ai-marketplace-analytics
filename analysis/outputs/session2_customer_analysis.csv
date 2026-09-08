@@ -1,0 +1,9 @@
+﻿dimension,value,sample_size,orders,merchandise_cents,customer_share,purchase_frequency,repeat_rate,analysis_window,cohort_definition,denominator
+frequency_bucket,1,84351,84351,1166611481,0.9699977000919964,1.0,0.0,"[2017-01-01,2018-08-01)",core-window delivered purchases per customer_unique_id,unique anonymous purchasing users in core
+frequency_bucket,2,2399,4798,58928539,0.027587396504139834,2.0,1.0,"[2017-01-01,2018-08-01)",core-window delivered purchases per customer_unique_id,unique anonymous purchasing users in core
+frequency_bucket,3+,210,711,8705029,0.0024149034038638455,3.3857142857142857,1.0,"[2017-01-01,2018-08-01)",core-window delivered purchases per customer_unique_id,unique anonymous purchasing users in core
+segment,High-value One-time,20194,20194,714443323,0.23222171113155474,1.0,0.0,"[2017-01-01,2018-08-01)",core-window delivered purchases per customer_unique_id,unique anonymous purchasing users in core
+segment,High-value Repeat,1548,3339,57312552,0.01780128794848206,2.1569767441860463,1.0,"[2017-01-01,2018-08-01)",core-window delivered purchases per customer_unique_id,unique anonymous purchasing users in core
+segment,One-time,64157,64157,452168158,0.7377759889604416,1.0,0.0,"[2017-01-01,2018-08-01)",core-window delivered purchases per customer_unique_id,unique anonymous purchasing users in core
+segment,Repeat,1061,2170,10321016,0.01220101195952162,2.045240339302545,1.0,"[2017-01-01,2018-08-01)",core-window delivered purchases per customer_unique_id,unique anonymous purchasing users in core
+all,All,86960,89860,1234245049,1.0,1.033348666053358,0.03000229990800368,"[2017-01-01,2018-08-01)",core-window delivered purchases per customer_unique_id,unique anonymous purchasing users in core

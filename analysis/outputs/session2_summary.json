@@ -1,0 +1,59 @@
+{
+  "core_orders": 89860,
+  "core_customers": 86960,
+  "core_gmv_cents": 1234245049,
+  "core_freight_cents": 204517788,
+  "core_sellers": 2793,
+  "repeat_customers": 2609,
+  "repeat_rate": 0.03000229990800368,
+  "one_time_share": 0.9699977000919964,
+  "high_value_threshold_cents": 15500.0,
+  "activation_changed": 9,
+  "activated_core_matched": 337,
+  "matched_sellers": 380,
+  "seller_complete": {
+    "30": 280,
+    "60": 200,
+    "90": 124
+  },
+  "mql": 8000,
+  "closed": 842,
+  "conversion": 0.10525,
+  "funnel_invalid_timing": 1,
+  "late_valid_n": 89852,
+  "late_orders": 6138,
+  "late_rate": 0.06831233584116102,
+  "cx_n": 89230,
+  "late_review_n": 5993,
+  "ontime_review_n": 83237,
+  "late_review_mean": 2.2240947772401136,
+  "ontime_review_mean": 4.283707966409169,
+  "late_low_rate": 0.6369097280160186,
+  "ontime_low_rate": 0.09379242404219278,
+  "late_review_effect": -0.6493759761421865,
+  "adjusted_late_or": 15.950520059739377,
+  "adjusted_or_ci": [
+    14.991663255896261,
+    16.970704706569805
+  ],
+  "delay_quantiles": {
+    "0.25": 3.0,
+    "0.5": 7.0,
+    "0.75": 14.0,
+    "0.9": 23.0,
+    "0.95": 32.0
+  },
+  "category_matrix_thresholds": {
+    "gmv_p75_cents": 29491322.5,
+    "growth_median": 1.5810068424458488,
+    "late_platform": 0.06831233584116102,
+    "freight_platform": 0.16570274125523352,
+    "review_platform": 4.145408906519644
+  },
+  "qa_pass": 88,
+  "qa_warn": 4,
+  "qa_fail": 0,
+  "source_database_sha256": "c774664f88e964d41603f78422a5f9039690a5a861a20b601222397a6c6e93d9",
+  "processed_database_sha256": "7461fe19feec82a79ad4ee95aae3b28b2820f5e867e448c9d4ddc9b8061ba92e",
+  "generated_utc": "2026-09-06T18:25:40.770779+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "datasetFiles": [
+    {
+      "name": "olist_closed_deals_dataset.csv",
+      "totalBytes": 171352
+    },
+    {
+      "name": "olist_marketing_qualified_leads_dataset.csv",
+      "totalBytes": 703836
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"name":"olist-marketplace-analytics","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"node --test tests/data.test.mjs && vite build","preview":"vite preview --host 127.0.0.1","test":"node --test tests/data.test.mjs"},"dependencies":{"react":"^19.2.0","react-dom":"^19.2.0","echarts":"^6.0.0"},"devDependencies":{"vite":"^7.3.0"}}

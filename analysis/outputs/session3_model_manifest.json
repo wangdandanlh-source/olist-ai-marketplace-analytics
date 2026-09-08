@@ -1,0 +1,37 @@
+{
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "primary_model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "primary_success": true,
+  "fallback_used": false,
+  "backend": "ONNX Runtime CPU; official uint8 AVX2 export",
+  "model_revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+  "library_versions": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scikit-learn": "1.9.0",
+    "onnxruntime": "1.29.0",
+    "tokenizers": "0.23.2"
+  },
+  "embedding_dimension": 384,
+  "embedding_rows": 35519,
+  "text_index_sha256": "dc723fa03f0c64e2d5421098b2f83cc7e60f536b324f2aa12f9177296a3ed670",
+  "embedding_sha256": "31bb3d919ae3f3560bbaadcc814f4a69047e229be8a35d42bf06295f5426a73d",
+  "run_timestamp": "2026-09-07T06:42:23.051909+00:00",
+  "elapsed_seconds": 85.12459874153137,
+  "primary_load_inference_attempts": 1,
+  "download_attempts": 1,
+  "max_sequence_length": 128,
+  "truncated_unique_texts": 1,
+  "pooling": "attention-mask mean pooling then L2 normalization",
+  "translation_before_embedding": false,
+  "weights_in_git": false,
+  "paid_api": false,
+  "model_license": "Apache-2.0",
+  "llm_naming_runtime": "ChatGPT Work runtime — exact model identifier unavailable",
+  "clustering_library_versions": {
+    "scikit-learn": "1.7.2",
+    "joblib": "1.5.2"
+  },
+  "library_versions_note": "Embedding-time environment snapshot lists sklearn 1.9.0, which was not used for embedding or final clustering; final clustering uses isolated 1.7.2.",
+  "token_length_audit_note": "Corrected audit after disabling tokenizer saved truncation: 1/35519 unique texts exceeds 128 tokens, maximum 186; actual embeddings correctly used 128 throughout, unchanged."
+}

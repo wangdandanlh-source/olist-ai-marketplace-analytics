@@ -1,0 +1,19 @@
+{
+  "session2_summary.json": "426dc9d1d685a378215e2b9d91883254f5d0464899b862e5d9b067c77817be0b",
+  "session3_summary.json": "4fad168baf7309af0fc239d400cb2ee19ff5fa3a6149eb2bb0949160fed05c08",
+  "session3_model_manifest.json": "e0a8cc573bdbcdf20cdd5f1b07e5c047862a0582008ed27add3add6bf31b301b",
+  "session2_customer_repurchase_summary.csv": "dfdc9aeb1320b17f70bc16331996ccb69868eaf57aea0cd269b3880362514318",
+  "session2_seller_postdeal_summary.csv": "fcc813a25121c83b597a70f7db82db49bd7d35a19231d96435dcadc27df284c1",
+  "session2_cx_logistic_coefficients.csv": "c99135579a1bb8502e2ac2fd4abdb14e5a43027a7d547b3dcf3b924aa9fcc081",
+  "session2_marketplace_monthly.csv": "51543124a9108cec43a7b5b2064ae4138a5dcf63b9996ff16a62706f7fe7767c",
+  "session2_gmv_decomposition.csv": "231085c07592adab02c9720d801c024e30bdbda91b49cebabd2ec811f03c01b3",
+  "session2_funnel_analysis.csv": "95553b08c22f12064a1f29f708a216e5f88b87936d022c06e7013021c4ad57cb",
+  "session2_customer_analysis.csv": "8a3586a531e59d1e3dde017d622a61e727fa5f0112a2961e351010fa76e07188",
+  "session2_fulfillment_cx.csv": "4ac9aec3b8d53e432e0520db3ee119b91376b36553dc221b3a90b813b6048c9c",
+  "session2_cx_sensitivity.csv": "81cc6f79861395a999be2d8c58d46db6b5b3f21a8129db09f442999f2f5bbfd3",
+  "session2_category_analysis.csv": "667ab30e512b28ddf0b0ed765021c245476f86d3f09e38ca45351448e591e2b1",
+  "session3_issue_metrics.csv": "023b32d24e263bbb853eda0b0c7e9f29d9c79ef385ab3490d77749b67acacd4d",
+  "session3_issue_timing_comparison.csv": "959fa90c4f938e561d08b05f6f0b05219cac0640c187dbef4242f518f0c8b0d3",
+  "session3_validation_baselines.csv": "0ec896a528b7d525a8fa8137012c97b0c0342a8795b210c6bb9644020f7203f1",
+  "session3_category_month_diagnostics.csv": "cd0244bf92b6f8300edc142394c4fcd8de48d6f54e82c23587a08b265f6847bb"
+}

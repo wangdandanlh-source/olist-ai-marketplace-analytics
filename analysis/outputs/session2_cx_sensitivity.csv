@@ -1,0 +1,3 @@
+﻿sample,sample_size,late_n,ontime_n,late_review,ontime_review,late_low_rating_rate,ontime_low_rating_rate,low_rating_difference,analysis_window,cohort_definition,denominator
+one_order_per_customer,86372,5831,80541,2.2195163779797635,4.2823655032840415,0.6381409706739839,0.09382798822959734,0.5443129824443865,"[2017-01-01,2018-08-01)",review timing / repeat-user sensitivity,canonical reviewed valid delivered orders retained by rule
+review_after_delivery,84763,1702,83061,3.688014101057579,4.284357279589699,0.2009400705052879,0.09362998278373726,0.10731008772155064,"[2017-01-01,2018-08-01)",review timing / repeat-user sensitivity,canonical reviewed valid delivered orders retained by rule

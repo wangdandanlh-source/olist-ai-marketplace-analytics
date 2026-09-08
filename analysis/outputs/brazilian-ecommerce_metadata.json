@@ -1,0 +1,40 @@
+{
+  "datasetFiles": [
+    {
+      "name": "olist_customers_dataset.csv",
+      "totalBytes": 9033957
+    },
+    {
+      "name": "olist_geolocation_dataset.csv",
+      "totalBytes": 61273883
+    },
+    {
+      "name": "olist_order_items_dataset.csv",
+      "totalBytes": 15438671
+    },
+    {
+      "name": "olist_order_payments_dataset.csv",
+      "totalBytes": 5777138
+    },
+    {
+      "name": "olist_order_reviews_dataset.csv",
+      "totalBytes": 14451670
+    },
+    {
+      "name": "olist_orders_dataset.csv",
+      "totalBytes": 17654914
+    },
+    {
+      "name": "olist_products_dataset.csv",
+      "totalBytes": 2379446
+    },
+    {
+      "name": "olist_sellers_dataset.csv",
+      "totalBytes": 174703
+    },
+    {
+      "name": "product_category_name_translation.csv",
+      "totalBytes": 2613
+    }
+  ]
+}
